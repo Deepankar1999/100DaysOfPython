@@ -7,7 +7,7 @@ MY_LAT = 12.971599# Your latitude
 MY_LONG = 77.594566 # Your longitude
 
 MY_EMAIL="testpython193@gmail.com"
-MY_PASS="aano xidx znaf tiqg"
+MY_PASS="**** **** **** ****"
 
 
 def is_iss_overhead():
